@@ -44,6 +44,11 @@ console.log("끝!!")
 
 const userInput = "";
 
-if(userInput){
+if(!userInput){
   console.log("값이 비었습니다. 입력해주세요")
+}
+else
+  {
+  console.log("!!!!11")
+
 }
